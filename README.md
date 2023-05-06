@@ -15,4 +15,4 @@ The project follows the original project line of Oracle Next Education One chall
 
 This Java Encoder and Decoder does not use any graphical interface, being a console application.
 
-Using a RegEx validates only allowed characters: only special characters or lower case letters are allowed
+Using a RegEx validates only allowed characters: only no special characters or lower case letters are allowed
