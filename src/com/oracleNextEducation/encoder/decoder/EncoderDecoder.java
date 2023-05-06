@@ -6,7 +6,7 @@ import java.util.regex.Pattern;
 
 public class EncoderDecoder {
 
-    private static final String REGEX = "^[a-z0-9]+$";
+    private static final String REGEX = "^[a-z0-9\s]+$";
     private static final Pattern PATTERN = Pattern.compile(REGEX);
 
     public class Encoder {
